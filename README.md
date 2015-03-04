@@ -1,7 +1,8 @@
 # wroc.py
 
-[![Join the chat at https://gitter.im/wrocpy/wrocpy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wrocpy/wrocpy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Wrocław's finest Pythonistas
+
+[![Join the chat at https://gitter.im/wrocpy/wrocpy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wrocpy/wrocpy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Talks
 
