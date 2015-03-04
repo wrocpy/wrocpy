@@ -11,4 +11,4 @@ Add links to your presentations using GitHub pull requests.
 
 1. Continuous Deployment aplikacji w Django — Wojciech Lichota
 2. wroc.py: wiadomości duszpasterskie — Dominik Wroński
-3. Prices: operacje finansowe w Pythonie — Michał Ociepka
+3. [Prices: operacje finansowe w Pythonie](http://mociepka.github.io/wroc.py-prices/) — Michał Ociepka
