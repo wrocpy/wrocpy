@@ -11,7 +11,7 @@ Add links to your presentations using GitHub pull requests.
 ### wroc.py #13
 
 1. [Continuous Deployment aplikacji w Django](http://lichota.pl/continuous_deployment_032015.pdf) — Wojciech Lichota
-2. wroc.py: wiadomości duszpasterskie — Dominik Wroński
+2. [wroc.py: wiadomości duszpasterskie](http://slides.com/dominikwronski/lucky-13#/) — Dominik Wroński
 3. [Prices: operacje finansowe w Pythonie](http://mociepka.github.io/wroc.py-prices/) — Michał Ociepka
 
 ### wroc.py #12
@@ -53,7 +53,7 @@ Add links to your presentations using GitHub pull requests.
 1. wroc.d — Jacek Szpot
 2. Fun with funs — Pawel Pamuła 
 3. Shipping code — Mariusz Łusiak
-4. Games in python and pygame — Dominik Wronski 
+4. [Games in python and pygame](http://slides.com/dominikwronski/snakegamepython#/) — Dominik Wronski 
 
 ### wroc.py #05
 
