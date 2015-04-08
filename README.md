@@ -22,7 +22,7 @@ Add links to your presentations using GitHub pull requests.
 ### wroc.py #12
 
 1. Kanban 101, czyli Agile != Scrum — Maciej Talaśka
-2. [Nie taki GIL straszny...](https://speakerdeck.com/tomekwojcik/nie-taki-gil-straszny-dot-dot-dothttps://www.youtube.com/watch?v=hMFJfopUXLA) — Tomasz Wójcik ([video](https://www.youtube.com/watch?v=hMFJfopUXLA))
+2. [Nie taki GIL straszny...](https://speakerdeck.com/tomekwojcik/nie-taki-gil-straszny-dot-dot-dot) — Tomek Wójcik ([video](https://www.youtube.com/watch?v=hMFJfopUXLA))
 3. [Rozdział Trzeci] Path to enlightenment: Python internals, uncensored — Jacek Szpot
 
 ### wroc.py #11
