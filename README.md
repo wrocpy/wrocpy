@@ -8,6 +8,11 @@ Wrocław Python Community
 
 Add links to your presentations using GitHub pull requests.
 
+### wroc.py #14
+
+1. Z głową w chmurze - Google App Engine i Google Cloud - Tomasz Modrzyński 
+2. [Zarządzanie pakietami w Pythonie](http://artursmet.github.io/wroc.py-14/) - Artur Smęt
+
 ### wroc.py #13
 
 1. [Continuous Deployment aplikacji w Django](http://lichota.pl/continuous_deployment_032015.pdf) — Wojciech Lichota
