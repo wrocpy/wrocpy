@@ -10,7 +10,7 @@ Add links to your presentations using GitHub pull requests.
 
 ### wroc.py #14
 
-1. Z głową w chmurze - Google App Engine i Google Cloud - Tomasz Modrzyński 
+1. [Z głową w chmurze - Google App Engine i Google Cloud](http://modriv.net/gae-wrocpy/) - Tomasz Modrzyński 
 2. [Zarządzanie pakietami w Pythonie](http://artursmet.github.io/wroc.py-14/) - Artur Smęt
 
 ### wroc.py #13
