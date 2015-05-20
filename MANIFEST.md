@@ -7,7 +7,7 @@ Jako społeczność oczekujemy, by każdy z nas stosował się do przedstawionyc
 
 * wroc.py jako miejsce przyjazne dla wszystkich pozostaje przestrzenią wolną od formułowania publicznych ocen w kwestiach światopoglądowych, zwłaszcza tych związanych z płcią, preferencjami seksualnymi, budową ciała, rasą lub wyznaniem.
 
-* W publicznej dyskusji, jak również w prywatnych wypowiedzi staramy się zaniechać agresywnych bądź rubasznych wypowiedzi wprowadzających celowe dwuznaczności, mogące zostać uznane przez inne osoby za wulgarne czy niestosowne. Podobne przypadki mogą powodować złe samopoczucie u części uczestników i nie wnoszą niczego wartościowego do naszych spotkań.
+* W publicznej dyskusji, jak również w prywatnych wypowiedziach staramy się zaniechać agresywnych bądź rubasznych wypowiedzi wprowadzających celowe dwuznaczności, mogące zostać uznane przez inne osoby za wulgarne czy niestosowne. Podobne przypadki mogą powodować złe samopoczucie u części uczestników i nie wnoszą niczego wartościowego do naszych spotkań.
 
 * Jeśli w pewnych kwestiach nie mamy pewności, gdzie przebiega granica komfortu, to warto zdać się na zdrowy rozsądek.
 
