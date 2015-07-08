@@ -12,8 +12,10 @@ Add links to your presentations using GitHub pull requests.
 
 1. Co warto wiedzieć o SQLAlchemy? - Grzegorz Biziel 
 2. Openstack - wirtualizacja i automatyzacja IT - Wojciech Barczyński
-3. [XPath](https://slides.com/noisy/xpath/) - Krzysztof Szumny
 
+##### Lighting Talks
+
+1. [XPath](https://slides.com/noisy/xpath/) - Krzysztof Szumny
 
 ### wroc.py #14
 
