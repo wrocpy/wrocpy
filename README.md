@@ -15,7 +15,7 @@ Add links to your presentations using GitHub pull requests.
 
 ##### Lighting Talks
 
-1. ION — Anna Warzecha
+1. [ION](https://ionapp.com/) — Anna Warzecha
 2. [XPath](https://slides.com/noisy/xpath/) — Krzysztof Szumny
 3. http://www.privacv.com — Chris Lozinski
 
