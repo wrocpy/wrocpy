@@ -19,6 +19,16 @@ Add links to your presentations using GitHub pull requests.
 2. [XPath](https://slides.com/noisy/xpath/) — Krzysztof Szumny
 3. http://www.privacv.com — Chris Lozinski
 
+### wroc.py #16
+
+1. Projektowanie architektury - jak zorganizować zwinny proces tworzenia dokumentacji technicznej — Michał Rychlik 
+2. Usprawnianie workflow - opowieść o automatyzacji — Piotr Skrok 
+
+### wroc.py #15
+
+1. Software quality monitoring in Python projects. SonarQube in action. — Łukasz Koczwara
+2. Nowinki w Django 1.8 — Maciek Jabłoński
+
 ### wroc.py #14
 
 1. [Z głową w chmurze - Google App Engine i Google Cloud](http://modriv.net/gae-wrocpy/) - Tomasz Modrzyński 
