@@ -8,6 +8,15 @@ Wrocław Python Community
 
 Add links to your presentations using GitHub pull requests.
 
+### wroc.py #17
+
+1. Co warto wiedzieć o SQLAlchemy? - Grzegorz Biziel 
+2. Openstack - wirtualizacja i automatyzacja IT - Wojciech Barczyński
+
+##### Lighting Talks
+
+1. [XPath](https://slides.com/noisy/xpath/) - Krzysztof Szumny
+
 ### wroc.py #14
 
 1. [Z głową w chmurze - Google App Engine i Google Cloud](http://modriv.net/gae-wrocpy/) - Tomasz Modrzyński 
