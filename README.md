@@ -10,7 +10,7 @@ Add links to your presentations using GitHub pull requests.
 
 ### wroc.py #17
 
-1. Co warto wiedzieć o SQLAlchemy? — Grzegorz Biziel 
+1. [Co warto wiedzieć o SQLAlchemy?](http://equus71.github.io/sqlalchemy-worth-to-know/) — Grzegorz Biziel, Jan Słowik
 2. Openstack - wirtualizacja i automatyzacja IT — Wojciech Barczyński
 
 ##### Lighting Talks
