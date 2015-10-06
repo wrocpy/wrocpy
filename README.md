@@ -8,6 +8,23 @@ Wrocław Python Community
 
 Add links to your presentations using GitHub pull requests.
 
+### wroc.py #20
+
+1. Jak pisac szybki kod w pythonie — Bartek Ćwikłowski 
+2. [Geodjango — kiedy GIS spotyka Django](http://slides.com/noaal/deck) — Krzysztof Żuraw
+
+### wroc.py #19
+
+1. Python i Bash — od os.system do Fabrica — Radek Ganczarek 
+2. [Film] [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) — Jack Diederich 
+
+### wroc.py #18
+
+1. [Introduction to py.audio](http://nonatomiclabs.com/blog/?p=67) - Jean Cruypenynck 
+2. [Film] [Fast Python, Slow Python](https://www.youtube.com/watch?v=7eeEf_rAJds) - Alex Gaynor
+
+⚡ ️[Introduction to Travis CI](http://nonatomiclabs.com/blog/?p=75) - Jean Cruypenynck  
+
 ### wroc.py #17
 
 1. [Co warto wiedzieć o SQLAlchemy?](http://equus71.github.io/sqlalchemy-worth-to-know/) — Grzegorz Biziel, Jan Słowik
