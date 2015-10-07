@@ -10,7 +10,7 @@ Add links to your presentations using GitHub pull requests.
 
 ### wroc.py #20
 
-1. Jak pisac szybki kod w pythonie — Bartek Ćwikłowski 
+1. [Jak pisac szybki kod w pythonie](https://speakerdeck.com/paczesiowa/jak-pisac-szybki-kod-w-pythonie), [kod](https://www.dropbox.com/s/7ntmq4fwypwd4dw/paczesiowa_szybki_kod.tar.bz2?dl=0) — Bartek Ćwikłowski
 2. [Geodjango — kiedy GIS spotyka Django](http://slides.com/noaal/deck) — Krzysztof Żuraw
 
 ### wroc.py #19
