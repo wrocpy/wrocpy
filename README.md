@@ -15,7 +15,7 @@ Add links to your presentations using GitHub pull requests.
 
 ### wroc.py #19
 
-1. Python i Bash — od os.system do Fabrica — Radek Ganczarek 
+1. [Python i Bash](http://www.slideshare.net/RadosawJanGanczarek/python-and-bash-from-ossystem-to-fabric) — od os.system do Fabrica — Radek Ganczarek 
 2. [Film] [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) — Jack Diederich 
 
 ### wroc.py #18
