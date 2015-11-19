@@ -8,6 +8,11 @@ Wrocław Python Community
 
 Add links to your presentations using GitHub pull requests.
 
+### wroc.py #21
+
+1. async.io — Maciek Sobczak
+2. Python w pudełku — Tomasz Wójcik
+
 ### wroc.py #20
 
 1. [Jak pisac szybki kod w pythonie](https://speakerdeck.com/paczesiowa/jak-pisac-szybki-kod-w-pythonie), [kod](https://www.dropbox.com/s/7ntmq4fwypwd4dw/paczesiowa_szybki_kod.tar.bz2?dl=0) — Bartek Ćwikłowski
@@ -15,12 +20,12 @@ Add links to your presentations using GitHub pull requests.
 
 ### wroc.py #19
 
-1. [Python i Bash](http://www.slideshare.net/RadosawJanGanczarek/python-and-bash-from-ossystem-to-fabric) — od os.system do Fabrica — Radek Ganczarek 
-2. [Film] [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) — Jack Diederich 
+1. [Python i Bash](http://www.slideshare.net/RadosawJanGanczarek/python-and-bash-from-ossystem-to-fabric) — od os.system do Fabrica — Radek Ganczarek
+2. [Film] [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) — Jack Diederich
 
 ### wroc.py #18
 
-1. [Introduction to py.audio](http://nonatomiclabs.com/blog/?p=67) - Jean Cruypenynck 
+1. [Introduction to py.audio](http://nonatomiclabs.com/blog/?p=67) - Jean Cruypenynck
 2. [Film] [Fast Python, Slow Python](https://www.youtube.com/watch?v=7eeEf_rAJds) - Alex Gaynor
 
 ⚡ ️[Introduction to Travis CI](http://nonatomiclabs.com/blog/?p=75) - Jean Cruypenynck  
@@ -38,8 +43,8 @@ Add links to your presentations using GitHub pull requests.
 
 ### wroc.py #16
 
-1. Projektowanie architektury - jak zorganizować zwinny proces tworzenia dokumentacji technicznej — Michał Rychlik 
-2. Usprawnianie workflow - opowieść o automatyzacji — Piotr Skrok 
+1. Projektowanie architektury - jak zorganizować zwinny proces tworzenia dokumentacji technicznej — Michał Rychlik
+2. Usprawnianie workflow - opowieść o automatyzacji — Piotr Skrok
 
 ### wroc.py #15
 
@@ -48,7 +53,7 @@ Add links to your presentations using GitHub pull requests.
 
 ### wroc.py #14
 
-1. [Z głową w chmurze - Google App Engine i Google Cloud](http://modriv.net/gae-wrocpy/) - Tomasz Modrzyński 
+1. [Z głową w chmurze - Google App Engine i Google Cloud](http://modriv.net/gae-wrocpy/) - Tomasz Modrzyński
 2. [Zarządzanie pakietami w Pythonie](http://artursmet.github.io/wroc.py-14/) - Artur Smęt
 
 ### wroc.py #13
@@ -74,7 +79,7 @@ Add links to your presentations using GitHub pull requests.
 1. Overv.io - getting things done through github — Michał Ociepka
 2. Path to enlightenment: Python internals, uncensored — Jacek Szpot
 3. Panie, a czy pół giga RAMu mi starczy? — Tomasz Melcer
-4. Python oraz penetracja - korelacja czy negacja — Mateusz Stahl 
+4. Python oraz penetracja - korelacja czy negacja — Mateusz Stahl
 
 ### wroc.py #09
 
@@ -94,9 +99,9 @@ Add links to your presentations using GitHub pull requests.
 ### wroc.py #06
 
 1. wroc.d — Jacek Szpot
-2. Fun with funs — Pawel Pamuła 
+2. Fun with funs — Pawel Pamuła
 3. Shipping code — Mariusz Łusiak
-4. [Games in python and pygame](http://slides.com/dominikwronski/snakegamepython#/) — Dominik Wronski 
+4. [Games in python and pygame](http://slides.com/dominikwronski/snakegamepython#/) — Dominik Wronski
 
 ### wroc.py #05
 
@@ -106,7 +111,7 @@ Add links to your presentations using GitHub pull requests.
 ### wroc.py #04
 
 1. Server monitoring in 3 minutes — Kuba Nowak & Jacek Szpot
-2. Client-server communication in python (Raspberry PI project) — Xiaoli Duan 
+2. Client-server communication in python (Raspberry PI project) — Xiaoli Duan
 3. CheatChamp battle — Jakub Caban
 
 ### wroc.py #03
