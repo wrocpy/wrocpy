@@ -11,7 +11,7 @@ Add links to your presentations using GitHub pull requests.
 ### wroc.py #22
 
 1. iPython and You - mało kodu, wielki efekt — Marek Piechula
-2. "Introduction to py.test" or "Why py.test is better than fruit dumplings"  — Jean Cruypenynck
+2. ["Introduction to py.test" or "Why py.test is better than fruit dumplings”](http://slides.com/jeancruypenynck/introduction-to-py-test/), code [here](https://github.com/filaton/pytest-intro/) — Jean Cruypenynck
 
 ### wroc.py #21
 
