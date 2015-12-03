@@ -8,6 +8,11 @@ Wrocław Python Community
 
 Add links to your presentations using GitHub pull requests.
 
+### wroc.py #22
+
+1. iPython and You - mało kodu, wielki efekt — Marek Piechula
+2. "Introduction to py.test" or "Why py.test is better than fruit dumplings"  — Jean Cruypenynck
+
 ### wroc.py #21
 
 1. async.io — Maciek Sobczak
