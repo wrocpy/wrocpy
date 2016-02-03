@@ -8,6 +8,15 @@ Wrocław Python Community
 
 Add links to your presentations using GitHub pull requests.
 
+### wroc.py #24
+
+1. Wszystko co powinniście wiedzieć o dekoratorach — Marek Piechula
+2. Provisioning w YAMLu: Ansible. — Paweł Wilczyński
+
+### wroc.py #23
+
+Spotkanie w trybie lite: bez prelekcji i sponsorów, w klimacie networkingowym :)
+
 ### wroc.py #22
 
 1. iPython and You - mało kodu, wielki efekt, [kod](https://github.com/firemark/notebooks/tree/master/ipython-prelection) — Marek Piechula
