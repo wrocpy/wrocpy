@@ -8,6 +8,17 @@ Wrocław Python Community
 
 Add links to your presentations using GitHub pull requests.
 
+### wroc.py #26
+
+1. mirakuru - czy można robić open source w ramach komercyjnych projektów? - Paweł Wilczyński & Grzegorz Śliwiński
+2. O co tak właściwie chodzi z licencjami opensource. - Dominik Wroński 
+
+### wroc.py #25
+
+1. "Bezpieczeństwie aplikacji www" - Mateusz Stahl
+2. "Deskryptory w Pythonie" - Radosław Ganczarek
+
+
 ### wroc.py #24
 
 1. Wszystko co powinniście wiedzieć o dekoratorach — Marek Piechula
