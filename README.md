@@ -11,7 +11,7 @@ Add links to your presentations using GitHub pull requests.
 ### wroc.py #24
 
 1. Wszystko co powinniście wiedzieć o dekoratorach — Marek Piechula
-2. Provisioning w YAMLu: Ansible. — Paweł Wilczyński
+2. Provisioning w YAMLu: Ansible. — Paweł Wilczyński - [video](https://www.youtube.com/watch?v=flnW_DaTjHA)
 
 ### wroc.py #23
 
