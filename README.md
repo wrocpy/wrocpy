@@ -10,7 +10,7 @@ Add links to your presentations using GitHub pull requests.
 
 ### wroc.py #26
 
-1. mirakuru - czy można robić open source w ramach komercyjnych projektów? - Paweł Wilczyński & Grzegorz Śliwiński
+1. [mirakuru - czy można robić open source w ramach komercyjnych projektów?](https://cdn.rawgit.com/ClearcodeHQ/mirakuru_presentation/master/build/index.html#/step-1) - Paweł Wilczyński & Grzegorz Śliwiński
 2. O co tak właściwie chodzi z licencjami opensource. - Dominik Wroński 
 
 ### wroc.py #25
