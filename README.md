@@ -8,6 +8,9 @@ Wrocław Python Community
 
 Add links to your presentations using GitHub pull requests.
 
+### wroc.py #42
+1. Trunk Based Development - Kamil Mówiński (prezentacja w sliders/wrocpy_42_tbd.pdf)
+
 ### wroc.py #26
 
 1. mirakuru - czy można robić open source w ramach komercyjnych projektów? - Paweł Wilczyński & Grzegorz Śliwiński
